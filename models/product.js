@@ -3,6 +3,11 @@ const mongoose = require('mongoose')
 
 
 const productSchema = new mongoose.Schema({
+    // productId: {
+    //     type: Sequelize.INTEGER,
+    //     autoIncrement: true,
+    //     primaryKey: true,
+    // },
 
     productname: {
         type : String,
@@ -10,7 +15,8 @@ const productSchema = new mongoose.Schema({
     },
     productcode: {
         type : String,
-        required : true
+        required : true,
+        unique: true
     },
     description: {
 
