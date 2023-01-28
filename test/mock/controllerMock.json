@@ -1,0 +1,24 @@
+{
+    "productData" : 
+        {
+            "productname": "asus rog",
+            "productcode": "1445cc",
+            "description": "great pc",
+            "releasedate": "25/10/2022",
+            "price": 94000,
+            "rating": 4.5,
+            "imageurl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fdlcdnwebimgs.asus.com%2Fgain%2FA2E2B660-EFDE-4C0A-8035-7DD101C62103&imgrefurl=https%3A%2F%2Frog.asus.com%2Fin%2Flaptops-group%2F&tbnid=k6PPhpXF5YktaM&vet=12ahUKEwirt5mw79f7AhWqJ7cAHYKID4MQMygEegUIARDsAQ..i&docid=0iQQUxyq4jk95M&w=1200&h=630&q=asus%20rog&ved=2ahUKEwirt5mw79f7AhWqJ7cAHYKID4MQMygEegUIARDsAQ"
+        },
+        "ProductId":
+        {
+            "_id": "638854361f53d8ef8cf6a144"
+        },
+        "error400":
+        {
+            "status" : 400
+        },
+        "success":
+        {
+            "status": 200
+        }
+}
